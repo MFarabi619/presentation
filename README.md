@@ -1,6 +1,4 @@
-# [CUSEC 2025](https://2025.cusec.net/) Speaker Application - [Adam Said](https://www.linkedin.com/in/adamsaid-/) and [Mumtahin Farabi](https://www.linkedin.com/in/mfarabi/)
-
-Emails are plain and boring. A good conference deserves and outstanding application. How about an interactive slide show made in code? :)
+# The Tech Chasm, Build your own CRM - [Sajana Mahinda Sri](https://www.linkedin.com/in/jan-mahinda-sri-485472112) and [Mumtahin Farabi](https://www.linkedin.com/in/mfarabi/)
 
 Built with ❤️, and used as an opportunity to learn and evaluate the following technologies:
 
